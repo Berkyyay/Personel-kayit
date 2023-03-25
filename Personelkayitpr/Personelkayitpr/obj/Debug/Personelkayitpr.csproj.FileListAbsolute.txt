@@ -1,0 +1,13 @@
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\bin\Debug\Personelkayitpr.exe.config
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\bin\Debug\Personelkayitpr.exe
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\bin\Debug\Personelkayitpr.pdb
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.csproj.AssemblyReference.cache
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.Properties.Resources.resources
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.csproj.GenerateResource.cache
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.csproj.CoreCompileInputs.cache
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.exe
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.pdb
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.Frmistatislik.resources
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.FrmAnaForm.resources
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.FrmGrafik.resources
+C:\Users\Berky\source\repos\Personelkayitpr\Personelkayitpr\obj\Debug\Personelkayitpr.FrmGiris.resources
